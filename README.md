@@ -23,8 +23,8 @@ This project demonstrates the installation and usage of **Apache Flink 2.0** usi
 
 ## 📁 Project Structure
 
-├── word_count.py         # Main PyFlink streaming job
-├── README.md             # Project overview and setup guide
-└── documentation.md      # Detailed explanation of task and code
+-├── word_count.py         # Main PyFlink streaming job
+-├── README.md             # Project overview and setup guide
+-└── documentation.md      # Detailed explanation of task and code
 
 
